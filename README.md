@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://kelthic.xyz/a1asd1.png" width="400"/>
+  
 </div>
 
 <div id="badges" align="center">
