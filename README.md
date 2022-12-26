@@ -2,6 +2,12 @@
   <img src="https://kelthic.xyz/a1a1sd1.png" width="400"/>
 </div>
 
+
+
+
+
+
+
 <div id="badges" align="center">
   <a href="https://twitter.com/kelthic">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Page"/>
@@ -19,6 +25,18 @@
   <img src="https://img.shields.io/badge/Contact me-red?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="E-Mail"/>
   </a>
   
+</div>
+
+
+
+
+---
+
+
+
+
+<div id="header2" align="center"> 
+  <img src="https://kelthic.xyz/13asa.png" width="400"/>
 </div>
 
 
