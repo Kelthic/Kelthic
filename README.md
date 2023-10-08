@@ -9,7 +9,7 @@
 
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/kelthic">
+  <a href="[https://twitter.com/kelthic](https://twitter.com/Mark_de_Rune)">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Page"/>
   </a>
   <a href="https://vk.com/kelthic">
