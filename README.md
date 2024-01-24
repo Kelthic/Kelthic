@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://kelthic.xyz/a1a1sd1.png" width="400"/>
-</div>
+
 
 
 
@@ -9,7 +7,7 @@
 
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/Mark_de_Rune">
+  <a href="https://twitter.com/markderune">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Page"/>
   </a>
   <a href="https://vk.com/kelthic">
@@ -21,7 +19,7 @@
   <a href="https://steamcommunity.com/id/kelthic">
   <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white" alt="Steam Page"/>
   </a>
-  <a href="mailto:help@kelthic.xyz">
+  <a href="mailto:markderune@gmail.com">
   <img src="https://img.shields.io/badge/Contact me-red?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="E-Mail"/>
   </a>
   
@@ -31,13 +29,6 @@
 
 
 ---
-
-
-
-
-<div id="header2" align="center"> 
-  <img src="https://kelthic.xyz/13asa.png" width="400"/>
-</div>
 
 
 
