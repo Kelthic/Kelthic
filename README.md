@@ -19,7 +19,7 @@
   <a href="https://steamcommunity.com/id/kelthic">
   <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white" alt="Steam Page"/>
   </a>
-  <a href="mailto:markderune@gmail.com">
+  <a href="mailto:mail@markderune.xyz">
   <img src="https://img.shields.io/badge/Contact me-red?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="E-Mail"/>
   </a>
   
